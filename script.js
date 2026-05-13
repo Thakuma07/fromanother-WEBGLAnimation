@@ -5,9 +5,6 @@ import vertexShader from "./shaders/vertex.glsl";
 import fragmentShader from "./shaders/fragment.glsl";
 import { slides } from "./slides.js";
 
-
-// gsap.registerPlugin(SplitText); // Removed as SplitType doesn't need registration
-
 let currentIndex = 0;
 let isTransitioning = false;
 let rippleTween = null;
