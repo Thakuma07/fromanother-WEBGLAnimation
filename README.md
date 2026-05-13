@@ -2,6 +2,8 @@
 
 A high-performance, cinematic ripple displacement slider built with **Three.js**, **GSAP**, and **GLSL Shaders**. This project features smooth text animations and a liquid-like transition effect between slides.
 
+<img width="1920" height="1080" alt="Screenshot 2026-05-13 162025" src="https://github.com/user-attachments/assets/09d3890e-4c8e-48a5-b652-532c4299c9b4" />
+
 ## ✨ Features
 - **WebGL Ripple Effect**: Custom GLSL shaders for fluid, interactive displacement transitions.
 - **Dynamic Text Splitting**: Uses `split-type` for high-performance text animations without premium dependencies.
