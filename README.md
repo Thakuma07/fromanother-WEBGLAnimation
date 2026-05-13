@@ -57,7 +57,8 @@ npm run build
 - **[split-type](https://github.com/lukePeavey/SplitType)** - Lightweight text splitting utility.
 
 ## 🎨 Credits
-Inspired by the design aesthetics of **fromanother**.
+- **Design Inspiration**: [fromanother](https://www.fromanother.love/)
+- **Shader Source**: [Shock wave with saturation](https://www.shadertoy.com/view/llj3Dz) from Shadertoy
 
 ---
 Developed with ❤️ by Antigravity.
